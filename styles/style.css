@@ -108,3 +108,24 @@ header{
   height: 377px;
   text-align: left;
 }
+/* Footer Design */
+.foot{
+  /* width: 50%; */
+  display: flex;
+  margin: 0px 200px;
+  margin-top: 0;
+}
+.contact{
+  margin-right: 200px;
+  width: 40%;
+}
+.form{
+  margin-left: 200px;
+  width: 50%;
+}
+input , textarea{
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 100%;
+}
